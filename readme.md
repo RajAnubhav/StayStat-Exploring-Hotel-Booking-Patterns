@@ -36,6 +36,7 @@
 3. How will hotels be assisted in making pricing and promotional decisions? <br>
 
 <br>
+
 # Hypothesis
 
 <br>
